@@ -1,0 +1,20 @@
+type,x,y,value,police,taille,argument,color,key,id
+image,0,0,ol.png,,,,0,,
+data,,,info W H de démarage,,,,,,
+date,,,création,,,,,,
+date,,,mise à jour,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Text,50.2,10,f,Courier,22,,#000000,9,21502
+Img,133.6,20.4,"chat1.png,23,23",Courier,10,,#000000,9,44176
+Img,108.2,20.6,"chat2.png,23,23",Courier,10,,#000000,9,44342
+Text,51.4,25.4,t,Courier,115,,#000000,9,53854
+Text,163.8,29.1,si mignon!,Times,19,,#ff0080,9,62748
+Text,111.4,32.2,Canaille!,Times,10,BUI,#00ffff,9,68734
+Text,136.9,34.8,Trop Choux!,Courier,8,B,#0000ff,9,74449
+Text,184.1,118.3,June,Courier,10,BU,#8080ff,9,250271
+Check,198.5,118.9,false,Courier,5,,#000000,9,251675

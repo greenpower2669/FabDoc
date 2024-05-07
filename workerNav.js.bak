@@ -1,0 +1,12 @@
+
+var i = 0;
+  ouvre_popup("ELI.html");
+
+function timedCount() {
+  i = i + 1;
+  postMessage(i);
+
+  setTimeout("timedCount()",50);
+}
+
+timedCount();

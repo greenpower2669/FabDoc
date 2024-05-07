@@ -1,0 +1,97 @@
+R: 98 G: 44 B: 56 wcam.php:140:9
+R: 97 G: 43 B: 57 wcam.php:140:9
+R: 99 G: 42 B: 57 wcam.php:140:9
+R: 95 G: 40 B: 58 wcam.php:140:9
+R: 153 G: 162 B: 161 wcam.php:140:9
+R: 99 G: 41 B: 59 wcam.php:140:9
+R: 94 G: 44 B: 59 wcam.php:140:9
+R: 100 G: 48 B: 61 wcam.php:140:9
+R: 97 G: 42 B: 59 2 wcam.php:140:9
+R: 96 G: 43 B: 59 wcam.php:140:9
+R: 103 G: 44 B: 57 wcam.php:140:9
+R: 98 G: 45 B: 61
+R: 0 G: 0 B: 0 wcam.php:140:9
+R: 0 G: 0 B: 0 2 wcam.php:140:9
+R: 108 G: 51 B: 68 wcam.php:140:9
+R: 127 G: 79 B: 97 wcam.php:140:9
+R: 116 G: 68 B: 84 wcam.php:140:9
+R: 120 G: 64 B: 73 wcam.php:140:9
+R: 119 G: 53 B: 66 wcam.php:140:9
+R: 112 G: 47 B: 56 wcam.php:140:9
+R: 110 G: 40 B: 46 wcam.php:140:9
+R: 102 G: 35 B: 42 wcam.php:140:9
+R: 119 G: 54 B: 62 wcam.php:140:9
+R: 117 G: 45 B: 52 wcam.php:140:9
+R: 119 G: 47 B: 56      de loin à pret
+
+R: 0 Y: 0 B: 0 Pts : 0 wcam.php:142:12
+R: 2 Y: 12 B: 12 Pts : 0 wcam.php:142:12
+R: 48 Y: 89 B: 89 Pts : 0
+rouge claire?
+Bug : 
+
+R: 0 Y: 0 B: 0 Pts : 0 wcam.php:149:12
+R: 0 G: 0 B: 0 Pts : 0 wcam.php:150:12
+R: -196 Y: 583 B: -193 Pts : 0 wcam.php:149:12
+R: 198 G: 193 B: 194 Pts : 0 wcam.php:150:12
+R: -105 Y: 223 B: -59 Pts : 0 wcam.php:149:12
+R: 162 G: 71 B: 47 Pts : 0 wcam.php:150:12
+R: -102 Y: 219 B: -58 Pts : 0 wcam.php:149:12
+R: 166 G: 77 B: 39 Pts : 0 wcam.php:150:12
+R: -120 Y: 246 B: -63 Pts : 0 wcam.php:149:12
+R: 180 G: 65 B: 61 Pts : 0 wcam.php:150:12
+R: -105 Y: 207 B: -51 Pts : 0 wcam.php:149:12
+R: 161 G: 53 B: 49 Pts : 0 wcam.php:150:12
+R: -108 Y: 219 B: -55 Pts : 0 wcam.php:149:12
+R: 171 G: 65 B: 46 Pts : 0 wcam.php:150:12
+R: -103 Y: 206 B: -51 Pts : 0 wcam.php:149:12
+R: 156 G: 52 B: 51 Pts : 0 wcam.php:150:12
+R: -102 Y: 227 B: -62 Pts : 0 wcam.php:149:12
+R: 161 G: 80 B: 44 Pts : 0 wcam.php:150:12
+R: -110 Y: 225 B: -57 Pts : 0 wcam.php:149:12
+R: 164 G: 60 B: 55 Pts : 0 wcam.php:150:12
+R: -109 Y: 210 B: -51 Pts : 0 wcam.php:149:12
+R: 175 G: 59 B: 42 Pts : 0 wcam.php:150:12
+R: -101 Y: 193 B: -46 Pts : 0 wcam.php:149:12
+R: 156 G: 47 B: 45 Pts : 0 wcam.php:150:12
+R: -100 Y: 201 B: -50 Pts : 0 wcam.php:149:12
+R: 153 G: 54 B: 47 Pts : 0 wcam.php:150:12
+R: -92 Y: 214 B: -61 Pts : 0 wcam.php:149:12
+R: 131 G: 70 B: 52 Pts : 0 wcam.php:150:12
+R: -108 Y: 247 B: -69 Pts : 0 wcam.php:149:12
+R: 147 G: 70 B: 69 Pts : 0 wcam.php:150:12
+R: -94 Y: 246 B: -76 Pts : 0 wcam.php:149:12
+R: 124 G: 87 B: 65 Pts : 0 wcam.php:150:12
+R: -106 Y: 231 B: -62 Pts : 0
+
+corrections faites : 
+
+R: 0 Y: 0 B: 0 Pts : 0 wcam.php:212:12
+R: 0 G: 0 B: 0 Pts : 0 wcam.php:213:12
+R: 0 Y: 0 B: 0 Pts : 0 wcam.php:212:12
+R: 0 G: 0 B: 0 Pts : 0 wcam.php:213:12
+R: 190 Y: 181 B: 184 Pts : 0 wcam.php:212:12
+R: 190 G: 181 B: 184 Pts : 0 wcam.php:213:12
+R: 129 Y: 157.260162601626 B: 208 Pts : 0 wcam.php:212:12
+R: 129 G: 173 B: 208 Pts : 0 wcam.php:213:12
+R: 188 Y: 64 B: 84 Pts : 1 wcam.php:212:12
+R: 188 G: 64 B: 84 Pts : 1 wcam.php:213:12
+R: 165 Y: 81.43820224719101 B: 54 Pts : 2 wcam.php:212:12
+R: 165 G: 76 B: 54 Pts : 2 wcam.php:213:12
+R: 162 Y: 70.41052631578947 B: 49 Pts : 3 wcam.php:212:12
+R: 162 G: 67 B: 49 Pts : 3 wcam.php:213:12
+R: 173 Y: 71.77884615384616 B: 52 Pts : 4 wcam.php:212:12
+R: 173 G: 69 B: 52 Pts : 4 wcam.php:213:12
+R: 174 Y: 71.0566037735849 B: 50 Pts : 5 wcam.php:212:12
+R: 174 G: 68 B: 50 Pts : 5 wcam.php:213:12
+R: 169 Y: 78.21052631578948 B: 54 Pts : 6 wcam.php:212:12
+R: 169 G: 74 B: 54 Pts : 6 wcam.php:213:12
+R: 167 Y: 82.2840909090909 B: 62 Pts : 7 wcam.php:212:12
+R: 167 G: 79 B: 62 Pts : 7 wcam.php:213:12
+R: 176 Y: 87.62765957446808 B: 59 Pts : 8 wcam.php:212:12
+R: 176 G: 82 B: 59 Pts : 8 wcam.php:213:12
+R: 170 Y: 83.21111111111111 B: 63 Pts : 9 wcam.php:212:12
+R: 170 G: 80 B: 63 Pts : 9 wcam.php:213:12
+R: 169 Y: 77.41052631578947 B: 56 Pts : 10 wcam.php:212:12
+R: 169 G: 74 B: 56 Pts : 10 wcam.php:213:12
+R: 175 Y: 79.27272727272728 B: 58 Pts : 11

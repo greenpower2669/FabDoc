@@ -1,0 +1,11 @@
+type,x,y,value,police,taille,argument,id,data1,data2
+image,0,0,ol.png,,,,0,,
+data,,,info W H de démarage,,,,,,
+date,,,création,,,,,,
+date,,,mise à jour,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Text,57,48,lol 1,Courier,,,,,

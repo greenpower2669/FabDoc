@@ -1,0 +1,20 @@
+type,x,y,value,police,taille,argument,data1,data2,id
+image,0,0,ol.png,,,,0,,
+data,,,"info W H de démarage",,,,,,
+date,,,création,,,,,,
+date,,,"mise à jour",,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Text,51.6,77,lyon,Courier,10,7,8,9,162216
+Text,63.4,57.7,"Trouver des souris!",Courier,10,7,8,9,121804
+Text,66.5,67.7,dady,Courier,10,7,8,9,142835
+Text,63.8,92.3,lyon,Courier,10,7,8,9,194468
+Text,63.7,97.5,"01 janvier ",Courier,10,7,8,9,205387
+Text,63.4,106.8,16,Courier,10,7,8,9,224914
+Text,72.6,116.3,,Courier,10,7,8,9,244956
+Text,57,48.1,"Petit Chat!",Courier,10,7,8,9,101580
+Text,23.8,17.3,Logo!,Courier,10,7,8,9,36568

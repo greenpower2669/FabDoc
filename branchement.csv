@@ -1,0 +1,24 @@
+type,x,y,value,police,taille,argument,data1,data2,id
+image,0,0,ol.png,,,,0,,
+data,,,"info W H de démarage",,,,,,
+date,,,création,,,,,,
+date,,,"mise à jour",,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Check,85.9,101.3,true,Courier,10,7,8,9,213589
+Check,162.8,101.9,true,Courier,10,7,8,9,215618
+Text,98.9,41,Jean@quikafékoi.com,Courier,15,7,8,9,87089
+Text,104.2,46,"BRETZEL ANDCO",Courier,10,7,8,9,97642
+Text,109.1,56.6,ene!,Courier,10,7,8,9,119951
+Text,73.8,78.8,"World wilde co",Courier,10,7,8,9,166218
+Text,132.6,140.6,,Courier,10,7,8,9,296586
+Text,136.5,19.7,,Courier,10,7,8,9,42735
+Text,68.8,31.6,,Courier,10,7,8,9,67048
+Text,178.1,31.3,,Courier,10,7,8,9,67511
+Text,72,154,dd,Courier,10,7,8,9,324120
+Text,56.5,243.5,,Courier,10,7,8,9,511915
+Text,106.1,111.6,Lyon,Courier,10,#ff0000,8,9,235421
